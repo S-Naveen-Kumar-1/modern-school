@@ -1,7 +1,6 @@
 # git-1-session
 "test"
-<h1><strong>Vercel Link:</strong> <a href="https://clothly.vercel.app/">clothly</a></h1>
-## 🌐 Deployment
-<h1><strong>Vercel Link:</strong> <a href="https://clothly.vercel.app/">clothly</a></h1>
+=## 🌐 Deployment
+<h1><strong>git-1-session:</strong> <a href="https://64be28f1846f6e32f239560b--lively-bienenstitch-d05eb7.netlify.app/">git-1-session</a></h1>
 
 
